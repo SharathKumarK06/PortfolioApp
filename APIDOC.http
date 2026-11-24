@@ -1,0 +1,12 @@
+
+### About API
+GET http://localhost:8000/about/
+
+### Education API
+GET http://localhost:8000/education/
+
+### Projects API
+GET http://localhost:8000/projects/
+
+### Skills API
+GET http://localhost:8000/skills/
